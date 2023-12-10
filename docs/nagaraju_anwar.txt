@@ -1,0 +1,15 @@
+Github link: https://github.com/nagaraju-oruganti/telecom_churn
+
+Data understanding, data preprocess, EDA, and feature engineering (& transformation): https://github.com/nagaraju-oruganti/telecom_churn/blob/main/notebooks/eda.ipynb
+
+
+Model selection, model building, and prediction:
+
+Baseline:
+- modeling (kfold): https://github.com/nagaraju-oruganti/telecom_churn/blob/main/notebooks/baseline_modeling.ipynb
+- modeling ensamble: https://github.com/nagaraju-oruganti/telecom_churn/blob/main/notebooks/baseline_ensamble.ipynb
+
+Optimisation:
+- Hyperparameter tuning: https://github.com/nagaraju-oruganti/telecom_churn/blob/main/notebooks/hyperparameters_tuning.ipynb
+- Optimised hyperparamaters modeling (kfold): https://github.com/nagaraju-oruganti/telecom_churn/blob/main/notebooks/param_tuned_modeling_kfold.ipynb
+- Optimised hyperparameters ensamble: https://github.com/nagaraju-oruganti/telecom_churn/blob/main/notebooks/param_tuned_ensamble.ipynb
